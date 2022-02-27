@@ -1,6 +1,6 @@
 👋 Hi, I’m @roysaucedo
  
-👀 I’m interested in building productivity tools & e-commerce stores.
+👀 I’m interested in building productivity/organization tools & e-commerce stores.
  
 🌱 I’m currently learning javascript.
 
