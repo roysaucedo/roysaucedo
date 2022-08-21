@@ -1,4 +1,4 @@
-#Welcome to my page! 👋
+# Welcome to my page! 👋
 
 I'm Roy, Frontend developer from  Orange County, California. :sunny:	
  
@@ -6,7 +6,7 @@ I'm Roy, Frontend developer from  Orange County, California. :sunny:
  
 🌱 I’m currently learning Javascript and PHP.
 
-##📫 How to reach me: 
+## 📫 How to reach me: 
 
 <a href="https://www.instagram.com/royasaucedo/">Instagram</a>
 
