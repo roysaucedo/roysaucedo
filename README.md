@@ -1,4 +1,4 @@
-Welcome to my page! 👋
+<h1><img src="https://cdn.shopify.com/s/files/1/0565/3063/2765/files/squirtle.png?v=1661040402" width="30"/> Welcome to my page! 👋</h1>
 
 I'm Roy, Frontend developer from  Orange County, California. :sunny:	
  
@@ -14,10 +14,5 @@ I'm Roy, Frontend developer from  Orange County, California. :sunny:
 
 <a href="mailto: roy@saucestudios.co">Email</a>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/roysaucedo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
