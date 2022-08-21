@@ -1,4 +1,4 @@
-<h1>Welcome to my page! <img src="https://cdn.shopify.com/s/files/1/0565/3063/2765/files/squirtle_dance.gif?v=1661040465" width="30"/></h1>
+<h1>Welcome to my page! 👋</h1>
 
 I'm Roy, Frontend developer from  Orange County, California. :sunny:	
  
