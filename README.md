@@ -6,7 +6,7 @@ I'm Roy, Frontend developer from  Orange County, California. :sunny:
  
 🌱 I’m currently learning Javascript and PHP.
 
-## 💻 My Portfolio
+## 💻 My portfolio
 <a href="https://www.saucestudios.co/">www.saucestudios.co</a>
 
 ## 📫 How to reach me: 
