@@ -2,7 +2,7 @@
 
 I'm Roy, Frontend developer from  Orange County, California. :sunny:	
  
-👀 I’m interested in building free productivity/organization tools & e-commerce websites.
+👀 I build e-commerce websites & free productivity/organization tools.
  
 🌱 I’m currently learning Javascript and PHP.
 
