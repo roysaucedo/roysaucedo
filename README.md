@@ -2,7 +2,7 @@
 🫡 I’m currently working on Shopify 2.0 Themes<br>🌱 I’m currently learning Javascript and Liquid
 
 ## 💻 My portfolio
-<a href="https://www.saucestudios.co/">www.saucestudios.co</a>
+<a href="https://www.saucestudios.co/">www.saucestudios.co</a><br>
 <a href="www.roysaucedo.com">www.roysaucedo.com</a>
 
 
