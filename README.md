@@ -1,4 +1,4 @@
-# 🤓 About Me:
+# About Me:
 🫡 I’m currently working on Shopify 2.0 Themes<br>🌱 I’m currently learning Javascript and Liquid
 
 ## 💻 My portfolio
