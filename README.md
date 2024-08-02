@@ -1,9 +1,5 @@
-# About Me:
-🫡 I’m currently working on Shopify 2.0 Themes<br>🌱 I’m currently learning Javascript and Liquid
-
 ## 💻 My portfolio
 <a href="https://www.sauces-tudios.com/">www.sauce-studios.com</a><br>
-<a href="www.roysaucedo.com">www.roysaucedo.com</a>
 
 
 ## 🌐 Socials:
